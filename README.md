@@ -6,7 +6,7 @@ PC
 Anaconda - Python 3.7
 ## Algorithm: 
 ### Step 1:
-Strat the program
+Start the program
 ### Step 2:
 Get the inputs from the user using eval(input())
 ### Step 3: 
